@@ -5,3 +5,4 @@ pydantic
 pyjwt
 passlib[bcrypt]
 python-multipart
+python-3.11
